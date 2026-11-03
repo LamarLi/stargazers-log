@@ -1,0 +1,1 @@
+printf '%s\n' '# macOS' '.DS_Store' '' '# Dependencies and build output' 'node_modules/' 'dist/' '' '# Secrets and local config' '.env' '.env.*' '' '# Logs and editor files' '*.log' '.vscode/' '.idea/' > .gitignore
